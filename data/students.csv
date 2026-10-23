@@ -1,0 +1,8 @@
+student_id,name,group,grade,email
+1,Anna Koval,PI-21,91.5,anna@example.com
+2,Oleh Melnyk,PI-21,84.0,oleh@example.com
+3,Iryna Bondar,PI-22,95.2,iryna@example.com
+4,,PI-22,76.0,no-name@example.com
+5,Petro Novak,PI-23,105,petro@example.com
+abc,Maria Boyko,PI-21,85,maria@example.com
+7,Andrii Lytvyn,PI-23,89.4,andrii@example.com
